@@ -1,17 +1,45 @@
 h1 {
     color: darkred;
-}
+    display: flex;
+    justify-content: center;
+    }
+h3 {
+    display: flex;
+    justify-content: center;
+    color: whitesmoke;
+    }
+h4 {
+    display: flex;
+    justify-content: center;
+    color: whitesmoke;
+    }
 img {
     width: 400px;
-}
+    }
 #thirdDiv {
     height: 600px;
     width: 500px;
     background-color: darkblue;
     padding: 50px;
     border: 5px solid darkred;
-}
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
 #spanId {
     font-size: 18px;
-    margin: 50px;                
-}
+    margin: 50px;
+    display: flex;
+    justify-content: center;
+    color: whitesmoke;
+    }
+a {
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+    }
+body {
+    background: url('https://k30.kn3.net/taringa/E/E/B/4/9/1/UnriquelmistaMas/DFC.jpg');
+    }
+
